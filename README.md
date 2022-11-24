@@ -16,11 +16,11 @@ We apply the scanner on Lab2.txt and optain the Symbol Table and the Program Int
 
 I have compared the Symbol Table and the PIF from the scanner in Python and the scanner in Lex, the results are: 
 
-##SymbolTable.png
+## SymbolTable.png
 
 ![Project](SymbolTable.png)
 
-##PIF1.png and PIF2.png files.
+## PIF1.png and PIF2.png files.
 
 ![Project](PIF1.png)
 ![Project](PIF2.png)
